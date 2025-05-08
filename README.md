@@ -9,3 +9,5 @@ There are three important commits:
 * Final commit: restores the state of the kept files based on the root commit.
 
 The user can then manually take action, such as switching to the old branch, removing the most recent commit (e.g., using `git rebase`), and squash merging the new branch into the old branch (e.g., `git merge --squash`).
+
+* Tool is WIP, not guaranteed to be error-free.*
